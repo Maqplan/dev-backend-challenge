@@ -52,14 +52,8 @@ Tipo de lançamento, ex: Conta de água, Salário etc.
 
 <hr>
 
-- Aplicar TDD e ter no mínimo 70% de cobertura em testes, de preferência usando JEST.
-
-> Você pode encontrar material de ajuda [aqui]().
-
-- Usar práticas e conceitos Clean Code.
-
-> Você pode encontrar material de ajuda [aqui](https://github.com/Maqplan/dev-frontend-challenge/blob/main/helpers/Apresenta%C3%A7%C3%A3o%20geral.pdf).
-
+- Aplicar TDD e ter no mínimo 70% de cobertura em testes, de preferência usando JEST. Você pode encontrar ajuda com esse assunto [aqui]().
+- Usar práticas e conceitos Clean Code. Você pode encontrar ajuda com esse assunto [aqui](https://github.com/Maqplan/dev-backend-challenge/blob/main/helpers/Apresenta%C3%A7%C3%A3o%20geral.pdf).
 - Script docker para imagem do banco de dados.
 - Documentação da API. ( De preferência Swagger )
-- Interface visual básica para testar a aplicação, ou usando as [seguintes recomendações](https://github.com/Maqplan/dev-frontend-challenge)
+- Interface visual básica para testar a aplicação, ou usando as [seguintes recomendações](https://github.com/Maqplan/dev-frontend-challenge).
