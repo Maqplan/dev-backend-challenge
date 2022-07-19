@@ -7,19 +7,12 @@
 Cadastro de despesas e receitas e seus relacionamentos.
 
     - Descrição
-
     - Valor
-
     - Status (Em aberto, quitado, pago)
-
     - Data vencimento
-
     - Data pagamento
-
     - Categoria (id da categoria)
-
     - Pessoa (id da pessoa)
-
     - Tipo (debito/credito)
 
 ### Crud de pessoa
@@ -27,9 +20,7 @@ Cadastro de despesas e receitas e seus relacionamentos.
 Pessoa que poderá ser vinculada ao lançamento e se será pessoa física ou jurídica.
 
     - Nome
-
     - CPF/CNPJ
-
     - Tipo de pessoa
 
 ### Crud de categorias
@@ -37,7 +28,6 @@ Pessoa que poderá ser vinculada ao lançamento e se será pessoa física ou jur
 Tipo de lançamento, ex: Conta de água, Salário etc.
 
     - Descrição
-
     - Tipo (debito/credito)
 
 ### Recomendações
