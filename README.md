@@ -52,6 +52,6 @@ Tipo de lançamento, ex: Conta de água, Salário etc.
 
 <hr>
 
-- Compartilhar links do repositório público para o e-mail: engenharia.sistemas@maqplan.com.br;
+- Compartilhar link do repositório público para o e-mail: engenharia.sistemas@maqplan.com.br;
 - No repositório deve haver um README.MD explicando como iniciar a aplicação.
 - Publicar API em um servidor de hospedagem gratuito de sua preferência, pode ser Heroko, AWS etc;
