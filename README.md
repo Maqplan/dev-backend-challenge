@@ -47,3 +47,11 @@ Tipo de lançamento, ex: Conta de água, Salário etc.
 - Script docker para imagem do banco de dados.
 - Documentação da API. ( De preferência Swagger )
 - Interface visual básica para testar a aplicação, ou usando as [seguintes recomendações](https://github.com/Maqplan/dev-frontend-challenge).
+
+### Entrega
+
+<hr>
+
+- Compartilhar links do repositório público para o e-mail: engenharia.sistemas@maqplan.com.br;
+- No repositório deve haver um README.MD explicando como iniciar a aplicação.
+- Publicar API em um servidor de hospedagem gratuito de sua preferência, pode ser Heroko, AWS etc;
